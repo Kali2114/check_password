@@ -48,3 +48,5 @@ else:
         raport += "- Nie ma cyfry!"
 
 print(raport)
+
+print("siema")
