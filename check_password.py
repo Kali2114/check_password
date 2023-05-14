@@ -49,4 +49,3 @@ else:
 
 print(raport)
 
-print("siema")
